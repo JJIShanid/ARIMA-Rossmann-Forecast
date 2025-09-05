@@ -6,6 +6,7 @@
 This project demonstrates a complete workflow for **time series forecasting using ARIMA/SARIMAX models** on the Rossmann store sales dataset. The aim is to provide **accurate daily sales forecasts** for individual stores, along with clear diagnostics, metrics, and visualizations suitable for both academic evaluation and business decision-making.
 
 ---
+<img width="1917" height="955" alt="p1" src="https://github.com/user-attachments/assets/21598bd2-47ba-45fc-b7fc-589cb758b521" />
 
 
 
